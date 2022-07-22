@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @veipuniilana
 - 👀 I’m interested in web development, data structure and algorithm, java, c
-- 🌱 I’m currently learning wen development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on any project using javascript, html,css,bootstrap,nodejs
 - 📫 How to reach me email: veipuniilana@gmail.com, instagram: veipuniilana
 
 <!---
